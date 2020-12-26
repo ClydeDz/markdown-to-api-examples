@@ -1,0 +1,9 @@
+[
+    {
+        "input": "Example1/portfolio",
+        "output": "output",
+        "summaryOutput": "output",
+        "filename": "portfolio.json",
+        "inputFileFilter": ".md"
+    }
+]
