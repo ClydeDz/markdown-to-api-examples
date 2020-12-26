@@ -1,0 +1,17 @@
+{
+  "title": "Amazing Book One",
+  "date": "23 Oct 1998",
+  "description": "Some short description about Amazing Book One",
+  "hasWebsite": true,
+  "website": "https://example.com/amazing-book-one",
+  "category": "Fiction",
+  "image": "https://example.com/amazing-book-one-cover.jpg",
+  "imageDescription": "Buy Amazing Book One",
+  "bodyContent": "# Amazing Book One  \r\nLong description for Amazing Book One. \r\n\r\nCan include images.    \r\n![bookcover](https://dummyimage.com/150x250/000/fff)  \r\n\r\n[Buy now](https://amazon.com)",
+  "bodyHtml": "<h1>Amazing Book One</h1>\n<p>Long description for Amazing Book One.</p>\n<p>Can include images.<br>\n<img src=\"https://dummyimage.com/150x250/000/fff\" alt=\"bookcover\"></p>\n<p><a href=\"https://amazon.com\">Buy now</a></p>\n",
+  "dir": "Example1Output/books/1998",
+  "base": "amazing-book-one.json",
+  "ext": ".json",
+  "sourceBase": "amazing-book-one.md",
+  "sourceExt": ".md"
+}

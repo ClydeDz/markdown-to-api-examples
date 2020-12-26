@@ -1,0 +1,16 @@
+{
+  "title": "TEDx New York",
+  "date": "15 Mar 2020",
+  "description": "Short description of New York speaking gig.",
+  "hasWebsite": true,
+  "website": "https://www.youtube.com/",
+  "category": "TED",
+  "image": "https://example.com/ted-newyork.jpg",
+  "bodyContent": "# TEDx New York   \r\nLong description of New York speaking gig.   \r\n\r\n![speaking](https://dummyimage.com/768x300/000/fff)",
+  "bodyHtml": "<h1>TEDx New York</h1>\n<p>Long description of New York speaking gig.</p>\n<p><img src=\"https://dummyimage.com/768x300/000/fff\" alt=\"speaking\"></p>\n",
+  "dir": "Example1Output/speaking/2019",
+  "base": "ted-newyork.json",
+  "ext": ".json",
+  "sourceBase": "ted-newyork.md",
+  "sourceExt": ".md"
+}

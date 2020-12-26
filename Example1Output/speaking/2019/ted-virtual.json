@@ -1,0 +1,16 @@
+{
+  "title": "TEDx Canada",
+  "date": "15 Mar 2020",
+  "description": "Short description of Canada speaking gig.",
+  "hasWebsite": true,
+  "website": "https://www.youtube.com/",
+  "category": "TED",
+  "image": "https://example.com/ted-canada.jpg",
+  "bodyContent": "# TEDx Canada   \r\nLong description of Canada speaking gig.   \r\n\r\n![speaking](https://dummyimage.com/768x300/000/fff)",
+  "bodyHtml": "<h1>TEDx Canada</h1>\n<p>Long description of Canada speaking gig.</p>\n<p><img src=\"https://dummyimage.com/768x300/000/fff\" alt=\"speaking\"></p>\n",
+  "dir": "Example1Output/speaking/2019",
+  "base": "ted-virtual.json",
+  "ext": ".json",
+  "sourceBase": "ted-virtual.md",
+  "sourceExt": ".md"
+}
