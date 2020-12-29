@@ -1,0 +1,83 @@
+{
+  "fileMap": {
+    "Example2Output/books/1998/amazing-book-one.json": {
+      "title": "Amazing Book One",
+      "date": "23 Oct 1998",
+      "description": "Some short description about Amazing Book One",
+      "hasWebsite": true,
+      "website": "https://example.com/amazing-book-one",
+      "category": "Fiction",
+      "image": "https://example.com/amazing-book-one-cover.jpg",
+      "imageDescription": "Buy Amazing Book One",
+      "dir": "Example2Output/books/1998",
+      "base": "amazing-book-one.json",
+      "ext": ".json",
+      "sourceBase": "amazing-book-one.md",
+      "sourceExt": ".md"
+    },
+    "Example2Output/books/2012/amazing-book-one.json": {
+      "title": "Amazing Book Two",
+      "date": "23 Oct 2012",
+      "description": "Some short description about Amazing Book Two",
+      "hasWebsite": true,
+      "website": "https://example.com/amazing-book-two",
+      "category": "Fiction",
+      "image": "https://example.com/amazing-book-two-cover.jpg",
+      "imageDescription": "Buy Amazing Book Two",
+      "dir": "Example2Output/books/2012",
+      "base": "amazing-book-one.json",
+      "ext": ".json",
+      "sourceBase": "amazing-book-one.md",
+      "sourceExt": ".md"
+    },
+    "Example2Output/speaking/2019/ted-newyork.json": {
+      "title": "TEDx New York",
+      "date": "15 Mar 2020",
+      "description": "Short description of New York speaking gig.",
+      "hasWebsite": true,
+      "website": "https://www.youtube.com/",
+      "category": "TED",
+      "image": "https://example.com/ted-newyork.jpg",
+      "dir": "Example2Output/speaking/2019",
+      "base": "ted-newyork.json",
+      "ext": ".json",
+      "sourceBase": "ted-newyork.md",
+      "sourceExt": ".md"
+    },
+    "Example2Output/speaking/2019/ted-virtual.json": {
+      "title": "TEDx Canada",
+      "date": "15 Mar 2020",
+      "description": "Short description of Canada speaking gig.",
+      "hasWebsite": true,
+      "website": "https://www.youtube.com/",
+      "category": "TED",
+      "image": "https://example.com/ted-canada.jpg",
+      "dir": "Example2Output/speaking/2019",
+      "base": "ted-virtual.json",
+      "ext": ".json",
+      "sourceBase": "ted-virtual.md",
+      "sourceExt": ".md"
+    },
+    "Example2Output/speaking/2020/ted-virtual.json": {
+      "title": "TEDx Virtual",
+      "date": "15 Mar 2020",
+      "description": "Short description of virtual speaking gig.",
+      "hasWebsite": true,
+      "website": "https://www.youtube.com/",
+      "category": "TED",
+      "image": "https://example.com/ted-2020.jpg",
+      "dir": "Example2Output/speaking/2020",
+      "base": "ted-virtual.json",
+      "ext": ".json",
+      "sourceBase": "ted-virtual.md",
+      "sourceExt": ".md"
+    }
+  },
+  "sourceFileArray": [
+    "./Example2/portfolio/books/1998/amazing-book-one.md",
+    "./Example2/portfolio/books/2012/amazing-book-one.md",
+    "./Example2/portfolio/speaking/2019/ted-newyork.md",
+    "./Example2/portfolio/speaking/2019/ted-virtual.md",
+    "./Example2/portfolio/speaking/2020/ted-virtual.md"
+  ]
+}
